@@ -16,4 +16,4 @@ The Features are:
 
 and modifiable. Pls do not publish the tool as yours and mention that you have the basis of me if you modify the tool!
 
-I hope you have a lot of fun analyzing and trying out this tool!
+I hope you have a lot of fun analyzing and trying out this tool!t
